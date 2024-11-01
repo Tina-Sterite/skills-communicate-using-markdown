@@ -23,3 +23,8 @@ USER_AGENT = os.getenv("USER_AGENT")
 #openai key
 openai_api_key = os.getenv('OPENAI_API_KEY')
 ```
+adding a task list
+- [ ] this is a task list
+- [ ] ooohh.. it adds new lines for you
+- [ ] that's cool
+- [ ] last item on my list
