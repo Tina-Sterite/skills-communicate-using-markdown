@@ -6,3 +6,5 @@
 ###### markdown header 6
 
 adding a commit message to the "bottom" of this file.. doesn't seem like the right place to put the message but anyway.. practiced markdown headers 1 through 6
+
+![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
